@@ -2,10 +2,8 @@
 
 
 This repository accompanies the paper [Data-Centric Diet: Effective Dataset Pruning for Medical Image Segmentation](TODO) and contains the basic code for replicating the training and computations in it.
-
-
 We found easy and hard to learn example for deep learning model by DAD(Dynamic average dice) Score.
-![image](picture/easy_and_hard.png)
+
 
 ## Usage
 The main requirements are pytorch 1.4.0 with python 3.9.1.
