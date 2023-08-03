@@ -1,7 +1,7 @@
 # Data-Centric-Diet
 
 
-This repository accompanies the paper [Data-Centric Diet: Effective Dataset Pruning for Medical Image Segmentation](TODO) and contains the basic code for replicating the training and computations in it.
+This repository accompanies the paper [Data-Centric Diet: Effective Dataset Pruning for Medical Image Segmentation](https://arxiv.org/abs/2308.01189) and contains the basic code for replicating the training and computations in it.
 We found easy and hard to learn example for deep learning model by DAD(Dynamic average dice) Score.
 
 
